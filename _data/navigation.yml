@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "CV"
+    url: /cv/cv.pdf
+  - title: "Resume"
+    url: /resume/resume.pdf
+  - title: "Undergraduate Studies"
+    url: /undergrad/    
+  - title: "Graduate Studies"
+    url: /grad/

@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 title                    : "Welcome to Kai's Square"
-title_separator          : ""
+title_separator          : 
 subtitle                 : "A $\\pmb{\\chi^2}$ Random Variable"
 name                     : "Kai Li"
 description              : "Kai Li's Academic Webpage"

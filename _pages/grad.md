@@ -10,6 +10,8 @@ The following are the courses that I have taken (or am currently taking) at Ston
 
 **Applied Mathematics and Statistics**
 
+[AMS 500](/grad/ams500/): Responsible Conduct of Research and Scholarship (RCRS)
+
 [AMS 507](/grad/ams507/): Introduction to Probability
 
 [AMS 510](/grad/ams510/): Analytical Methods for Applied Mathematics and Statistics

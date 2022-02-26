@@ -18,7 +18,11 @@ author_profile: true
 
 **A few quotes, theorems, and phenomenons that I like:**
 > Block what you can, randomize what you cannot.
+ 
 > Law of the unconscious statistician (LOTUS)
+
 > Garbage in, garbage out (GIGO)
+ 
 > Simpson's paradox
+
 > Deterministic vs. Stochastic 

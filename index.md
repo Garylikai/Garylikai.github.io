@@ -17,7 +17,7 @@ author_profile: true
 [ECO 521](/grad/eco521/): Econometrics
 
 **A few quotes, theorems, and interesting phenomenons that I like:**
-> [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))<sup>[1](#footnote)</sup>
+> [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
  
 > [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 
@@ -27,4 +27,4 @@ author_profile: true
 
 > Deterministic vs. Stochastic 
 
-<a name="footnote">1</a>: Box, G., Hunter, W., and Hunter, J. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.
+[^1]: Box, G., Hunter, W., and Hunter, J. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.

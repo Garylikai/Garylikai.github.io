@@ -1,7 +1,6 @@
 ---
 layout: archive
 classes: wide
-fontsize: 10pt
 author_profile: true
 ---
 

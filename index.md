@@ -17,12 +17,12 @@ author_profile: true
 [ECO 521](/grad/eco521/): Econometrics
 
 **A few quotes, theorems, and interesting phenomenons that I like:**
-> Block what you can, randomize what you cannot.
+> [*Block what you can, randomize what you cannot.*](https://en.wikipedia.org/wiki/Blocking_(statistics))
  
-> Law of the unconscious statistician (LOTUS)
+> [*Law of the unconscious statistician (LOTUS)*](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 
-> Garbage in, garbage out (GIGO)
+> [*Garbage in, garbage out (GIGO)*](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
  
-> Simpson's paradox
+> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 > Deterministic vs. Stochastic 

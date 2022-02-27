@@ -17,12 +17,14 @@ author_profile: true
 [ECO 521](/grad/eco521/): Econometrics
 
 **A few quotes, theorems, and interesting phenomenons that I like:**
-> [*Block what you can, randomize what you cannot.*](https://en.wikipedia.org/wiki/Blocking_(statistics))
+> [Block what you can, randomize what you cannot.<sup>[1](#footnote)</sup>](https://en.wikipedia.org/wiki/Blocking_(statistics))
  
-> [*Law of the unconscious statistician (LOTUS)*](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
+> [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 
-> [*Garbage in, garbage out (GIGO)*](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
+> [Garbage in, garbage out (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
  
 > [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 > Deterministic vs. Stochastic 
+
+<a name="footnote">1</a>: Box, G., Hunter, W., and Hunter, J. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.

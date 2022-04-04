@@ -16,15 +16,19 @@ author_profile: true
 
 [ECO 521](/grad/eco521/): Econometrics
 
-**A few statistics/CS quotes, theorems, and interesting phenomenons that I like:**
+**A few statistics/CS quotes, theorems, and phenomenons that I find very interesting:**
 > [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
  
 > [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 
 > [Garbage in, garbage out (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
  
-> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
 
-> Deterministic vs. Stochastic 
+> [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) / [Three Prisoners problem](https://en.wikipedia.org/wiki/Three_Prisoners_problem)
+
+> [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+
+> Deterministic vs. Stochastic Models
 
 [^1]: Box, G., Hunter, W., and Hunter, J. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.

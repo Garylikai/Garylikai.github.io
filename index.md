@@ -16,7 +16,7 @@ author_profile: true
 
 [ECO 521](/grad/eco521/): Econometrics
 
-**A few statistics/CS quotes, theorems, and phenomenons that I find very interesting:**
+**A few quotes, theorems, and phenomenons that I find very interesting:**
 > [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
  
 > [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)

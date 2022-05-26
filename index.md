@@ -19,7 +19,7 @@ author_profile: true
 
 > [Garbage in, garbage out (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
 
-> [Birthday paradox/birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
+> [Birthday paradox / birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
  
 > [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
 

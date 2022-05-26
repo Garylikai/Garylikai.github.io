@@ -18,6 +18,8 @@ author_profile: true
 > [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 
 > [Garbage in, garbage out (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
+
+> [Birthday paradox/birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
  
 > [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
 

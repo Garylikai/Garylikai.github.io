@@ -1,5 +1,5 @@
 ---
-title:  "Undergraduate Studies"
+title:  "Undergraduate"
 layout: single
 classes: wide
 permalink: /undergrad/

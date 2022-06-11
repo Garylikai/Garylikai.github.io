@@ -1,5 +1,5 @@
 ---
-title:  "Graduate"
+title:  "Graduate Studies"
 layout: single
 classes: wide
 permalink: /grad/

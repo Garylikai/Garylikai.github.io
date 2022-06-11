@@ -6,7 +6,9 @@ main:
     url: /cv/cv.pdf
   - title: "Resume"
     url: /resume/resume.pdf
-  - title: "Undergraduate Studies"
+  - title: "Undergraduate"
     url: /undergrad/    
-  - title: "Graduate Studies"
+  - title: "Graduate"
     url: /grad/
+  - title: "Research"
+    url: /research/

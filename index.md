@@ -27,6 +27,8 @@ author_profile: true
 
 > [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 
-> Deterministic vs. Stochastic Models
+> Deterministic vs. Stochastic Models (i.e. Tractability vs. Validity)[^2]
 
 [^1]: Box, G., Hunter, W., and Hunter, J. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.
+
+[^2]: Rardin, R. L. (2016). Optimization in Operations Research. 2nd Edition. Pearson.

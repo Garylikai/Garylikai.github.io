@@ -29,6 +29,6 @@ author_profile: true
 
 > Deterministic vs. Stochastic Models (i.e. Tractability vs. Validity)[^2]
 
-[^1]: Box, E.P. G., Hunter, S. J., and Hunter, G. W. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.
+[^1]: Box, E. P. G., Hunter, S. J., and Hunter, G. W. (1978). Statistics for experimenters: an introduction to design, data analysis, and model building. Wiley series in probability and mathematical statistics: Applied probability and statistics. John Wiley & Sons.
 
 [^2]: Rardin, R. L. (2016). Optimization in Operations Research. 2nd Edition. Pearson.

@@ -8,9 +8,13 @@ author_profile: true
 
 Hello! Welcome to Kai Li's website! 
 
+![](/images/image3.jpg){: .align-right width="240"}
+
 ![](/images/image2.jpg){: .align-right width="240"}
 
-I am currently a second-year graduate student at Stony Brook University, mastering statistics in the department of Applied Mathematics and Statistics, College of Engineering and Applied Sciences. Furthermore, I am pursuing an Advanced Graduate Certificate (and Engineering) in Data Science. I have a bachelor's degree in pure mathematics from The Ohio State University. I also had minors in Computer Information Science and Economics during my undergrad. The image was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
+I am currently a second-year graduate student at Stony Brook University, mastering statistics in the department of Applied Mathematics and Statistics, College of Engineering and Applied Sciences. Furthermore, I am pursuing an Advanced Graduate Certificate (and Engineering) in Data Science. I have a bachelor's degree in pure mathematics from The Ohio State University. I also had minors in Computer Information Science and Economics during my undergrad. 
+
+The image was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
 
 I am interested in a variety of sciences and technologies. In particular, I have experience in both theoretical knowledge, such as mathematics and economic theories, as well as applied implementations, such as applied statistics and computer science engineering. My background in broad subjects enables me to be curious and eager to discover everything emerging in the world. I also consider myself a "forever student" that keeps the passion to both learn and explore new boundaries in research.
 

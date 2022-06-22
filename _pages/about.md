@@ -14,7 +14,7 @@ I am currently a second-year graduate student at Stony Brook University, masteri
 
 ![](/images/image2.jpg){: .align-right width="240"}
 
-The image was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
+The image on the top was taken at the Department of Applied Mathematics and Statistics 2022 Award of Honor Celebration at Stony Book University on May 19th, 2022. The person next to me is our fantastic chair of AMS as well as a distinguished professor at Stony Brook, Prof. Joe Mitchell. The image on the bottom was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
 
 I am interested in a variety of sciences and technologies. In particular, I have experience in both theoretical knowledge, such as mathematics and economic theories, as well as applied implementations, such as applied statistics and computer science engineering. My background in broad subjects enables me to be curious and eager to discover everything emerging in the world. I also consider myself a "forever student" that keeps the passion to both learn and explore new boundaries in research.
 

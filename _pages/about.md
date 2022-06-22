@@ -10,9 +10,9 @@ Hello! Welcome to Kai Li's website!
 
 ![](/images/image3.jpg){: .align-right width="240"}
 
-![](/images/image2.jpg){: .align-right width="240"}
-
 I am currently a second-year graduate student at Stony Brook University, mastering statistics in the department of Applied Mathematics and Statistics, College of Engineering and Applied Sciences. Furthermore, I am pursuing an Advanced Graduate Certificate (and Engineering) in Data Science. I have a bachelor's degree in pure mathematics from The Ohio State University. I also had minors in Computer Information Science and Economics during my undergrad. 
+
+![](/images/image2.jpg){: .align-right width="240"}
 
 The image was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
 

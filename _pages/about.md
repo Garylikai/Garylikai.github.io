@@ -14,7 +14,7 @@ I am currently a second-year graduate student at Stony Brook University, masteri
 
 ![](/images/image3.jpg){: .align-right width="240"}
 
-The image on the top was taken during the week of Stony Brook University 2022 Graduate Celebration on May 23rd, 2022. In particular, I love the Möbius strip and the stairs in front of the math tower. The image in the middle was taken at the Department of Applied Mathematics and Statistics 2022 Award of Honor Celebration at Stony Book University on May 19th, 2022. The person next to me is our fantastic chair of AMS as well as a distinguished professor at Stony Brook, Prof. Joe Mitchell. The image on the bottom was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
+The image on the top was taken during the week of Stony Brook University 2022 Graduate Celebration on May 23rd, 2022. In particular, I love the [Umbilic torus](https://en.wikipedia.org/wiki/Umbilic_torus) and the stairs in front of the math tower. The image in the middle was taken at the Department of Applied Mathematics and Statistics 2022 Award of Honor Celebration at Stony Book University on May 19th, 2022. The person next to me is our fantastic chair of AMS as well as a distinguished professor at Stony Brook, Prof. Joe Mitchell. The image on the bottom was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
 
 ![](/images/image2.jpg){: .align-right width="240"}
 

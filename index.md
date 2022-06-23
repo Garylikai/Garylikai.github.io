@@ -27,7 +27,7 @@ author_profile: true
 
 > [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 
-> Deterministic vs. Stochastic Models (i.e. Tractability vs. Validity)[^2]
+> Deterministic vs. Stochastic Models (*i.e.* Tractability vs. Validity)[^2]
 
 [^1]: Box, G.E.P., J.S. Hunter, and W.G. Hunter: *Statistics for Experimenters: Design, Innovation, and Discovery*, 2nd Edition, John Wiley (2005).
 

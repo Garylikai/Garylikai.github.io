@@ -21,5 +21,6 @@ Current Research:
 **R**
 1. *Introductory Statistics with R* by Peter Dalgaard, 2nd Edition, 2008, Springer
 2. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
+3. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
 
 **Data Science**

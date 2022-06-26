@@ -10,3 +10,10 @@ Current Research:
 
 **Books that I love to read and recommend:**
 
+**Machine Learning**
+
+**Reinforcement Learning**
+
+**Deep Learning**
+
+**R**

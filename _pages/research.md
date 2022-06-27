@@ -23,6 +23,7 @@ Current Research:
 2. *Hands-On Programming with R* by Garrett Grolemund, 2014, O'Reilly
 3. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
 4. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
-5. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
+5. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
+6. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
 
 **Data Science**

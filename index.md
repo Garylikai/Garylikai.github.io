@@ -14,6 +14,10 @@ author_profile: true
 
 **A few quotes, theorems, and phenomenons that I find very interesting:**
 > [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
+
+> [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+
+> [Power law of practice](https://en.wikipedia.org/wiki/Power_law_of_practice)
  
 > [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
 

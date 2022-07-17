@@ -13,6 +13,8 @@ author_profile: true
 [AMS 556](/grad/ams556/): Dynamic Programming
 
 **A few quotes, theorems, and phenomenons that I find very interesting:**
+> [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+
 > [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
 
 > [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)

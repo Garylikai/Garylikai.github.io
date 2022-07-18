@@ -13,6 +13,8 @@ Current Research:
 **Machine Learning**
 1. *An Introduction to Statistical Learning with Applications in R* by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2017, Springer
 2. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* by Trevor Hastie, Robert Tibshirani and Jerome Friedman, 2nd Edition, 2016, Springer
+3. *Machine Learning* by Tom M. Mitchell, 1997, McGraw-Hill
+4. *Foundations of Machine Learning* by Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar, 2nd Edition, 2018, The MIT Press
 
 **Reinforcement Learning**
 

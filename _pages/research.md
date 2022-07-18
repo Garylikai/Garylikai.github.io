@@ -8,7 +8,7 @@ author_profile: true
 
 Current Research:
 
-**Books that I love to read and recommend:**
+**Books that I love to read and recommend: (still adding the books I am currently reading and have read)**
 
 **Machine Learning**
 1. *An Introduction to Statistical Learning with Applications in R* by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2017, Springer

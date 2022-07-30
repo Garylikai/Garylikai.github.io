@@ -35,6 +35,6 @@ author_profile: true
 
 > Deterministic vs. Stochastic Models (*i.e.* Tractability vs. Validity)[^2]
 
-[^1]: Box, G.E.P., J.S. Hunter, and W.G. Hunter: *Statistics for Experimenters: Design, Innovation, and Discovery*, 2nd Edition, John Wiley (2005).
+[^1]: Box, G.E.P., J.S. Hunter, and W.G. Hunter: *Statistics for Experimenters: Design, Innovation, and Discovery*, 2nd edition, John Wiley (2005).
 
-[^2]: Rardin, R.L.: *Optimization in Operations Research*, 2nd Edition, Pearson (2016).
+[^2]: Rardin, R.L.: *Optimization in Operations Research*, 2nd edition, Pearson (2016).

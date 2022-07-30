@@ -48,7 +48,7 @@ Current Research:
 1. *The Little SAS Book: A Primer* by Lora D. Delwiche and Susan J. Slaughter, 6th edition, 2019, SAS Institute
 2. *Applied Statistics and SAS Programming Language* by Ronald P. Cody and Jeffrey K. Smith, 5th edition, 2005, Pearson
 - An excellent introduction to elementary data analysis in SAS.
-3. *Categorical Data Analysis Using SAS* by Maura E. Stokes, Charles S. Davis and Gary G. Koch, 3rd edition, 2012, SAS publisher
+3. *Categorical Data Analysis Using SAS* by Maura E. Stokes, Charles S. Davis and Gary G. Koch, 3rd edition, 2012, SAS Institute
 
 **Data Science**
 1. *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data* by Hadley Wickham and Garrett Grolemund, 2017, O'Reilly

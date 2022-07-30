@@ -31,15 +31,16 @@ Current Research:
 - A complete introduction to R with illustrations in real-world applications.
 4. *Data Manipulation with R* by Phil Spector, 2008, Springer
 - A very complete and detailed book in data manipulation in R.
-5. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
+5. *Introduction to Scientific Programming and Simulation Using R* by Owen Jones, Robert Maillardet and Andrew Robinson, 2nd Edition, 2014, Chapman and Hall/CRC
+6. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
 - An excellent comprehensive guide to `ggplot2` in R.
-6. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
+7. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
 - Excellent book on R Markdown. This is the book to read for R Markdown.
-7. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
+8. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
 - A complete guide to prepare for a new R package from scratch. This is the book to read for R packages.
-8. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
+9. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
 - A detailed and technical book on imputation methods using R.
-9. *Advanced R* by Hadley Wickham, 2nd Edition, 2019, Chapman and Hall/CRC
+10. *Advanced R* by Hadley Wickham, 2nd Edition, 2019, Chapman and Hall/CRC
 
 **Data Science**
 1. *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data* by Hadley Wickham and Garrett Grolemund, 2017, O'Reilly
@@ -50,5 +51,7 @@ Current Research:
 - A comprehensive introduction to data science in Python with a more emphasis on machine learning.
 4. *The Data Science Design Manual* by Steven S. Skiena, 2017, Springer
 - A very comprehensive and easy-to-read introduction to data science for beginners.
-5. *The Signal and the Noise: Why so many predictions fail but some don't* by Nate Silver, 2012, Penguin Press
+5. *Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2* by Sebastian Raschka and Vahid Mirjalili, 3rd Edition, 2019, Packt Publishing
+6. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems* by Aurélien Géron, 3rd Edition, 2022, O'Reilly
+7. *The Signal and the Noise: Why so many predictions fail but some don't* by Nate Silver, 2012, Penguin Press
 

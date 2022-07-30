@@ -17,8 +17,10 @@ Current Research:
 4. *Foundations of Machine Learning* by Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar, 2nd Edition, 2018, The MIT Press
 
 **Reinforcement Learning**
+1. *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto, 2nd Edition, 2018, A Bradford Book
 
 **Deep Learning**
+1. *Deep Learning* by Ian Goodfellow, Yoshua Bengio and Aaron Courville, 2016, The MIT Press
 
 **R**
 1. *A Beginner's Guide to R* by Alain Zuur, Elena N. Ieno and Erik Meesters, 2009, Springer
@@ -47,5 +49,6 @@ Current Research:
 3. *Data Science from Scratch: First Principles with Python* by Joel Grus, 2nd Edition, 2019, O'Reilly
 - A comprehensive introduction to data science in Python with a more emphasis on machine learning.
 4. *The Data Science Design Manual* by Steven S. Skiena, 2017, Springer
-- A very comprehensive and introduction to data science for beginners.
+- A very comprehensive and easy-to-read introduction to data science for beginners.
+5. *The Signal and the Noise: Why so many predictions fail but some don't* by Nate Silver, 2012, Penguin Press
 

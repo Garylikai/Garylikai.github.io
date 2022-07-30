@@ -21,11 +21,22 @@ Current Research:
 **Deep Learning**
 
 **R**
-1. *Introductory Statistics with R* by Peter Dalgaard, 2nd Edition, 2008, Springer
-2. *Hands-On Programming with R* by Garrett Grolemund, 2014, O'Reilly
-3. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
-4. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
-5. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
-6. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
+1. *A Beginner's Guide to R* by Alain Zuur, Elena N. Ieno and Erik Meesters, 2009, Springer
+- A good introduction to R without statistics.
+2. *Introductory Statistics with R* by Peter Dalgaard, 2nd Edition, 2008, Springer
+- An excellent introduction to elementary data analysis in R.
+3. *Hands-On Programming with R: Write Your Own Functions and Simulations* by Garrett Grolemund, 2014, O'Reilly
+- A complete introduction to R with illustrations in real-world applications.
+4. *Data Manipulation with R* by Phil Spector, 2008, Springer
+- A very complete and detailed book in data manipulation in R.
+5. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd Edition, 2016, Springer
+- An excellent comprehensive guide to `ggplot2` in R.
+6. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
+- Excellent book on R Markdown. This is the book to read for R Markdown.
+7. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
+- A complete guide to prepare for a new R package from scratch. This is the book to read for R packages.
+8. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd Edition, 2021, Chapman and Hall/CRC
+- A detailed and technical book on imputation methods using R.
+9. *Advanced R* by Hadley Wickham, 2nd Edition, 2019, Chapman and Hall/CRC
 
 **Data Science**

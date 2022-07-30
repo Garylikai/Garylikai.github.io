@@ -40,3 +40,12 @@ Current Research:
 9. *Advanced R* by Hadley Wickham, 2nd Edition, 2019, Chapman and Hall/CRC
 
 **Data Science**
+1. *R for Data Science: Import, Tidy, Transform, Visualize, and Model Data* by Hadley Wickham and Garrett Grolemund, 2017, O'Reilly
+- An excellent introduction to data science in R, including `ggplot2`, `dplyr`, `tibble`, `readr`, `stringr`, `forcats`, `lubridate`, `magrittr`, `purrr`, `modelr`, `broom`, and R Markdown.
+2. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney, 2nd Edition, 2017, O'Reilly
+- An excellent introduction to data science in Python, including NumPy, pandas, matplotlib, seaborn, statsmodels, and scikit-learn using IPython and Jupyter notebook.
+3. *Data Science from Scratch: First Principles with Python* by Joel Grus, 2nd Edition, 2019, O'Reilly
+- A comprehensive introduction to data science in Python with a more emphasis on machine learning.
+4. *The Data Science Design Manual* by Steven S. Skiena, 2017, Springer
+- A very comprehensive and introduction to data science for beginners.
+

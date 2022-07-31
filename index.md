@@ -27,7 +27,9 @@ author_profile: true
 
 > [Birthday paradox / birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
  
-> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
+> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+
+> [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
 
 > [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) / [Three Prisoners problem](https://en.wikipedia.org/wiki/Three_Prisoners_problem)
 

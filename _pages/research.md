@@ -23,6 +23,7 @@ Current Research:
 1. *Deep Learning* by Ian Goodfellow, Yoshua Bengio and Aaron Courville, 2016, The MIT Press
 
 **R**
+See R cheatsheets for R packages, RStudio IDE, R Markdown and a lot more on https://www.rstudio.com/resources/cheatsheets/.
 1. *A Beginner's Guide to R* by Alain Zuur, Elena N. Ieno and Erik Meesters, 2009, Springer
 - A good introduction to R without statistics.
 2. *Introductory Statistics with R* by Peter Dalgaard, 2nd edition, 2008, Springer
@@ -32,10 +33,11 @@ Current Research:
 4. *Data Manipulation with R* by Phil Spector, 2008, Springer
 - A very complete and detailed book in data manipulation in R.
 5. *Introduction to Scientific Programming and Simulation Using R* by Owen Jones, Robert Maillardet and Andrew Robinson, 2nd edition, 2014, Chapman and Hall/CRC
+- A very good overview of scientific computing, numerical analysis, optimization, systems of ODEs, Markov chains, and simulation in R.
 6. *Statistical Computing with R* by Maria L. Rizzo, 2nd edition, 2019, Chapman & Hall/CRC
 - An excellent introduction to statistical computing, simulation, and optimization in R.
 7. *ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham, 2nd edition, 2016, Springer
-- An excellent comprehensive guide to `ggplot2` in R.
+- An excellent comprehensive guide to `ggplot2` in R. `ggplot2` is well known for being a Swiss army knife for data visualization in R.
 8. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
 - Excellent book on R Markdown. This is the book to read for R Markdown.
 9. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly

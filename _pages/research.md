@@ -23,7 +23,9 @@ Current Research:
 1. *Deep Learning* by Ian Goodfellow, Yoshua Bengio and Aaron Courville, 2016, The MIT Press
 
 **R**
+
 See R cheatsheets for R packages, RStudio IDE, R Markdown and a lot more on https://www.rstudio.com/resources/cheatsheets/.
+
 1. *A Beginner's Guide to R* by Alain Zuur, Elena N. Ieno and Erik Meesters, 2009, Springer
 - A good introduction to R without statistics.
 2. *Introductory Statistics with R* by Peter Dalgaard, 2nd edition, 2008, Springer

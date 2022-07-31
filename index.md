@@ -29,7 +29,7 @@ author_profile: true
  
 > [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
-> [inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
+> [Inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
 
 > [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) / [Three Prisoners problem](https://en.wikipedia.org/wiki/Three_Prisoners_problem)
 

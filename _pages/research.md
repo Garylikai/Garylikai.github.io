@@ -50,7 +50,7 @@ See R cheatsheets for R packages, RStudio IDE, R Markdown and a lot more on http
 
 **SAS<sup>&reg;</sup>**
 1. *The Little SAS<sup>&reg;</sup> Book: A Primer* by Lora D. Delwiche and Susan J. Slaughter, 6th edition, 2019, SAS Institute
-2. *Applied Statistics and SAS<sup>&reg;</sup> Programming Language* by Ronald P. Cody and Jeffrey K. Smith, 5th edition, 2005, Pearson
+2. *Applied Statistics and the SAS<sup>&reg;</sup> Programming Language* by Ronald P. Cody and Jeffrey K. Smith, 5th edition, 2005, Pearson
 - An excellent introduction to elementary data analysis in SAS<sup>&reg;</sup>.
 3. *Categorical Data Analysis Using SAS<sup>&reg;</sup>* by Maura E. Stokes, Charles S. Davis and Gary G. Koch, 3rd edition, 2012, SAS Institute
 

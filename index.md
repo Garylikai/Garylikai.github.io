@@ -14,6 +14,8 @@ author_profile: true
 
 I will be teaching [AMS 394](/grad/ams394/): Statistical Laboratory. Office hours: Tuesdays and Thursdays, 9:30-11:00am.
 
+<br/>
+
 **A few quotes, theorems, and phenomenons that I find very interesting:**
 > [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) / [Tactical voting](https://en.wikipedia.org/wiki/Tactical_voting)
 

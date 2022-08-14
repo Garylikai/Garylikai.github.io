@@ -14,6 +14,8 @@ author_profile: true
 
 I will be teaching [AMS 394](/grad/ams394/): Statistical Laboratory. Office hours: Tuesdays and Thursdays, 9:30-11:00am in Harriman 132.
 
+[Syllabus](/grad/ams394/AMS394_Syllabus_Fall2022.pdf)
+
 <br/>
 
 **A few quotes, theorems, and phenomenons that I find very interesting:**

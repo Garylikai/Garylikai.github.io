@@ -12,7 +12,7 @@ author_profile: true
 
 [AMS 556](/grad/ams556/): Dynamic Programming
 
-I will be teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](/grad/ams394/AMS394_Syllabus_Fall2022.pdf)
+I will be teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](https://garylikai.github.io/grad/ams394/AMS394_Syllabus_Fall2022.pdf)
 
 Office hours: Tuesdays and Thursdays, 9:30-11:00am in Harriman 132. 
 

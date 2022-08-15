@@ -16,7 +16,13 @@ The following are the courses that I have taken (or am currently taking) at Ston
 
 [AMS 510](/grad/ams510/): Analytical Methods for Applied Mathematics and Statistics
 
+[AMS 540](/grad/ams540/): Linear Programming
+
 [AMS 550](/grad/ams550/): Stochastic Models
+
+[AMS 553](/grad/ams553/): Simulation and Modeling
+
+[AMS 556](/grad/ams556/): Dynamic Programming
 
 [AMS 569](/grad/ams569/): Probability Theory
 

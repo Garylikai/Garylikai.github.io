@@ -48,7 +48,7 @@ The following are the courses that I have taken (or am currently taking) at Ston
 
 **Computer Science**
 
-[CSE 519](/grad/cse519/): Data Science Fundamentals
+[CSE 519](/grad/cse519/): Data Science
 
 **Economics**
 

@@ -42,14 +42,17 @@ See R cheatsheets for R packages, RStudio IDE, R Markdown and a lot more on http
 - An excellent comprehensive guide to `ggplot2` in R. `ggplot2` is well known for being a Swiss army knife for data visualization in R.
 8. *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire and Garrett Grolemund, 2018, Chapman and Hall/CRC
 - Excellent book on R Markdown. This is the book to read for R Markdown.
-9. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
+9. *R Markdown Cookbook* by Yihui Xie, Christophe Dervieux and Emily Riederer, 2020, Chapman & Hall/CRC
+- The "second edition" of *R Markdown: The Definitive Guide*.
+10. *R Packages: Organize, Test, Document, and Share Your Code* by Hadley Wickham, 2015, O'Reilly
 - A complete guide to prepare for a new R package from scratch. This is the book to read for R packages.
-10. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd edition, 2021, Chapman and Hall/CRC
+11. *Flexible Imputation of Missing Data* by Stef van Buuren, 2nd edition, 2021, Chapman and Hall/CRC
 - A detailed and technical book on imputation methods using R.
-11. *Advanced R* by Hadley Wickham, 2nd edition, 2019, Chapman and Hall/CRC
+12. *Advanced R* by Hadley Wickham, 2nd edition, 2019, Chapman and Hall/CRC
 
 **SAS<sup>&reg;</sup>**
 1. *The Little SAS<sup>&reg;</sup> Book: A Primer* by Lora D. Delwiche and Susan J. Slaughter, 6th edition, 2019, SAS Institute
+- The SAS Bible for SASor: a thorough introduction to SAS.
 2. *Applied Statistics and the SAS<sup>&reg;</sup> Programming Language* by Ronald P. Cody and Jeffrey K. Smith, 5th edition, 2005, Pearson
 - An excellent introduction to elementary data analysis in SAS<sup>&reg;</sup>.
 3. *Categorical Data Analysis Using SAS<sup>&reg;</sup>* by Maura E. Stokes, Charles S. Davis and Gary G. Koch, 3rd edition, 2012, SAS Institute

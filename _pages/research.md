@@ -6,7 +6,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Current Research:
+Current Research: Applications in Reinforcement Learning
 
 **Books that I love to read and recommend: (still updating!)**
 

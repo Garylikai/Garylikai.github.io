@@ -4,17 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-**Fall 2022 Class Schedule**
+**Spring 2023 Class Schedule**
 
-[AMS 540](/grad/ams540/): Linear Programming
+I will teach [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
 
-[AMS 553](/grad/ams553/): Simulation and Modeling
-
-[AMS 556](/grad/ams556/): Dynamic Programming
-
-I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2022.pdf)
-
-Office hours: Tuesdays and Thursdays, 9:30-11:00am in Harriman 132. 
+Office hours: Tuesdays and Thursdays, 4:00-5:30pm in Harriman 132. 
 
 <br/>
 

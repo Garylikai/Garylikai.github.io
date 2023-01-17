@@ -6,7 +6,7 @@ permalink: /grad/
 author_profile: true
 ---
 
-The following are the courses that I have taken (or am currently taking) at Stony Brook University during my graduate career:
+The following are the courses that I have taken at Stony Brook University during my graduate career:
 
 **Applied Mathematics and Statistics**
 

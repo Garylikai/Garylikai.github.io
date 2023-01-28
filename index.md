@@ -8,7 +8,7 @@ author_profile: true
 
 [AMS 599](/grad/ams599/): Research
 
-I will teach [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
+I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
 
 Office hours: Tuesdays and Thursdays, 4:00-5:30pm in Harriman 132.
 

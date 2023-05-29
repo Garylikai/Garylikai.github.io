@@ -42,7 +42,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 586](/grad/ams586/): Time Series
 
-[AMS 587](/grad/ams587/): Nonparametric Statistics (Self-learned)
+[AMS 587](/grad/ams587/): Nonparametric Statistics (Self-taught)
 
 [AMS 595](/grad/ams595/): Fundamentals of Computing
 

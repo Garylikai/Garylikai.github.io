@@ -16,6 +16,8 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 510](/grad/ams510/): Analytical Methods for Applied Mathematics and Statistics
 
+[AMS 516](/grad/ams516/): Statistical Methods in Finance (Wish to self-teach soon)
+
 [AMS 540](/grad/ams540/): Linear Programming
 
 [AMS 550](/grad/ams550/): Stochastic Models
@@ -34,19 +36,27 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 573](/grad/ams573/): Categorical Data Analysis
 
+[AMS 577](/grad/ams577/): Multivariate Analysis (Wish to self-teach soon)
+
 [AMS 578](/grad/ams578/): Regression Theory
 
 [AMS 580](/grad/ams580/): Statistical Learning
 
 [AMS 582](/grad/ams582/): Design and Analysis of Experiments
 
+[AMS 583](/grad/ams583/): Applied Longitudinal Data Analysis (Wish to self-teach soon)
+
 [AMS 586](/grad/ams586/): Time Series
 
 [AMS 587](/grad/ams587/): Nonparametric Statistics (Self-taught)
 
+[AMS 588](/grad/ams588/): Failure and Survival Data Analysis (Wish to self-teach soon)
+
 [AMS 595](/grad/ams595/): Fundamentals of Computing
 
 [AMS 597](/grad/ams597/): Statistical Computing
+
+[AMS 598](/grad/ams598/): Big Data Analysis (Wish to self-teach soon)
 
 **Computer Science**
 

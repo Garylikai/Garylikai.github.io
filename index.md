@@ -12,11 +12,15 @@ I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_page
 
 Office hours: Mondays 2:00-4:00pm and Tuesdays 10:00-11:00am in Harriman 202.
 
+Course materials are on Brightspace.
+
 <!---
 
 I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
 
 Office hours: Tuesdays and Thursdays, 4:00-5:30pm in Harriman 132.
+
+Course materials are on Brightspace.
 
 -->
 

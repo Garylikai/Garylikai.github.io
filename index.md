@@ -14,6 +14,8 @@ Office hours: Mondays 2:00-4:00pm and Tuesdays 10:00-11:00am in Harriman 202.
 
 Course materials are on Brightspace.
 
+I taught [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2023. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
+
 <!---
 
 I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)

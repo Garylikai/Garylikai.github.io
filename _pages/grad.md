@@ -66,6 +66,10 @@ The following are the courses that I have taken at Stony Brook University during
 
 [ECO 521](/grad/eco521/): Econometrics
 
+[ECO 604](/grad/eco604/): Game Theory I (Studying right now)
+
+[ECO 605](/grad/eco605/): Game Theory II (Wish to self-teach soon)
+
 **Journalism**
 
 [JRN 501](/grad/jrn501/): Foundations of Science Communication I

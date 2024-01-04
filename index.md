@@ -4,9 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-**Fall 2023 Class Schedule**
+**Spring 2024 Class Schedule**
 
 [AMS 599](/grad/ams599/): Research
+
+<!---
 
 I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
 
@@ -16,15 +18,15 @@ Course materials are on Brightspace.
 
 I taught [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2023. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
 
-<!---
+-->
 
-I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
+I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2024.pdf)
 
-Office hours: Tuesdays and Thursdays, 4:00-5:30pm in Harriman 132.
+Office hours: Tuesdays and Thursdays, 3:50-5:20pm in Harriman 202.
 
 Course materials are on Brightspace.
 
--->
+I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
 
 <br/>
 

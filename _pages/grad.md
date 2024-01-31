@@ -58,6 +58,8 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 598](/grad/ams598/): Big Data Analysis (Wish to self-teach soon)
 
+[AMS 698](/grad/ams698/): Practicum in Teaching
+
 **Computer Science**
 
 [CSE 519](/grad/cse519/): Data Science

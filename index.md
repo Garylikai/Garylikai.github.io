@@ -8,6 +8,8 @@ author_profile: true
 
 [AMS 599](/grad/ams599/): Research
 
+[AMS 698](/grad/ams698/): Practicum in Teaching
+
 <!---
 
 I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)

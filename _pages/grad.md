@@ -50,7 +50,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 587](/grad/ams587/): Nonparametric Statistics (Self-taught)
 
-[AMS 588](/grad/ams588/): Failure and Survival Data Analysis (Wish to self-teach soon)
+[AMS 588](/grad/ams588/): Failure and Survival Data Analysis (Self-taught)
 
 [AMS 595](/grad/ams595/): Fundamentals of Computing
 
@@ -68,7 +68,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [ECO 521](/grad/eco521/): Econometrics
 
-[ECO 604](/grad/eco604/): Game Theory I (Studying right now)
+[ECO 604](/grad/eco604/): Game Theory I (Self-taught)
 
 [ECO 605](/grad/eco605/): Game Theory II (Wish to self-teach soon)
 

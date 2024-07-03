@@ -70,10 +70,16 @@ The following are the courses that I have taken at Stony Brook University during
 
 [ECO 604](/grad/eco604/): Game Theory I (Self-taught)
 
-[ECO 605](/grad/eco605/): Game Theory II (Wish to self-teach soon)
+[ECO 605](/grad/eco605/): Game Theory II (Self-teaching)
 
 **Journalism**
 
 [JRN 501](/grad/jrn501/): Foundations of Science Communication I
 
 [JRN 503](/grad/jrn503/): Foundations of Science Communication II
+
+**Additional Applied Mathematics and Statistics Topics**
+
+AMS 691: Fundamentals of Reinforcement Learning (Self-taught)
+
+STAT 6520: Applied Statistical Analysis with Missing Data (Self-taught)

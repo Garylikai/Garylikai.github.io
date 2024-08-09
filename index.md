@@ -4,13 +4,13 @@ classes: wide
 author_profile: true
 ---
 
+<!---
+
 **Spring 2024 Class Schedule**
 
 [AMS 599](/grad/ams599/): Research
 
 [AMS 698](/grad/ams698/): Practicum in Teaching
-
-<!---
 
 I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
 
@@ -19,8 +19,6 @@ Office hours: Mondays 2:00-4:00pm and Tuesdays 10:00-11:00am in Harriman 202.
 Course materials are on Brightspace.
 
 I taught [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2023. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
-
--->
 
 I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2024.pdf)
 
@@ -31,6 +29,8 @@ Course materials are on Brightspace.
 I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
 
 <br/>
+
+-->
 
 **A few quotes, theorems, and phenomenons that I find very interesting:**
 > [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) / [Tactical voting](https://en.wikipedia.org/wiki/Tactical_voting)

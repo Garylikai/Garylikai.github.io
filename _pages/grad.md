@@ -58,7 +58,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 598](/grad/ams598/): Big Data Analysis (Wish to self-teach soon)
 
-[AMS 691](/grad/ams691/): Topics of Applied Mathematics and Statistics: Fundamentals of Reinforcement Learning
+[AMS 691](/grad/ams691/): Topics of Applied Mathematics and Statistics – Fundamentals of Reinforcement Learning
 
 [AMS 698](/grad/ams698/): Practicum in Teaching
 

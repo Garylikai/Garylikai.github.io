@@ -1,0 +1,31 @@
+---
+layout: single
+classes: wide
+permalink: /grad/ams691/
+author_profile: true
+---
+
+**AMS 691: Topics of Applied Mathematics and Statistics – Fundamentals of Reinforcement Learning**
+
+Deep understanding of reinforcement learning (RL) is essential for machine learning researchers, data scientists and practicing engineers working in areas such as artificial intelligence, machine learning, data/network science, natural language processing, computer vision, among others. RL has found its applications in our everyday life such as AlphaGo, AlphaFold, autonomous driving, healthcare, etc. This course will provide an introduction to the field of RL, and emphasize on hands-on experiences. Students are expected to become well versed in key ideas and techniques for RL through a combination of lectures, written and coding assignments. Students will advance their understanding and the field of RL through a course project. The topics that will be covered (time permitting) include but not limited to:
+
+- Markov Decision Processes (MDPs);
+- Value Functions;
+- Policy Iteration and Value Iteration;
+- Monte Carlo Methods;
+- Temporal Difference (TD) Learning;
+- SARSA and Q-Learning;
+- TD(λ);
+- (Linear) Function Approximation;
+- Policy Gradient Algorithms;
+- Other topics (e.g., Multi-Agent RL, RL Theory; Deep RL)
+
+Supplementary Textbooks:
+1. *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto, 2nd edition, 2018, Bradford Books
+2. *Artificial Intelligence: A Modern Approach* by Stuart J. Russel and Peter Norvig, 4th edition, 2022, Pearson
+3. *Deep Learning* by Ian Goodfellow, Yoshua Bengio and Aaron Courville, 2nd edition, 2016,‎ The MIT Press
+4. *Reinforcement Learning: State-of-the-Art* by Marco Wiering and Martijn Otterlo, 2012, Pearson
+5. *Dynamic Programming and Optimal Control Vol. I* by Dimitri P. Bertsekas, 4th edition, 2017, Athena Scientific
+6. *Dynamic Programming and Optimal Control Vol. II: Approximate Dynamic Programming* by Dimitri P. Bertsekas, 4th edition, 2012, Athena Scientific
+7. *Applied Probability Models with Optimization Applications* by Sheldon M. Ross, 1992, Dover Publications
+8. *Optimization and Control* by R. Weber, 2016

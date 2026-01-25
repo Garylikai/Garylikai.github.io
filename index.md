@@ -40,7 +40,7 @@ I am TAing [AMS 580](/grad/ams580/): Statistical Learning.
 
 Office hours: Tuesdays and Thursdays 5:00-6:00pm in Harriman 202.
 
-I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023 ([Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)) and [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2025 ([Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)).
+I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023 ([Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)) and [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2025 ([Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)), and TAed [AMS 586](/grad/ams586/): Time Series in Fall 2025.
 
 <br/>
 

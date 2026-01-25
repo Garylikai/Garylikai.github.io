@@ -58,6 +58,8 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 598](/grad/ams598/): Big Data Analysis (Wish to self-teach soon)
 
+[AMS 691](/grad/ams691/): Topics of Applied Mathematics and Statistics: Fundamentals of Reinforcement Learning
+
 [AMS 698](/grad/ams698/): Practicum in Teaching
 
 **Computer Science**
@@ -70,7 +72,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [ECO 604](/grad/eco604/): Game Theory I (Self-taught)
 
-[ECO 605](/grad/eco605/): Game Theory II (Self-teaching)
+[ECO 605](/grad/eco605/): Game Theory II (Self-taught)
 
 **Journalism**
 
@@ -79,7 +81,5 @@ The following are the courses that I have taken at Stony Brook University during
 [JRN 503](/grad/jrn503/): Foundations of Science Communication II
 
 **Additional Applied Mathematics and Statistics Topics**
-
-AMS 691: Fundamentals of Reinforcement Learning (Self-taught)
 
 STAT 6520: Applied Statistical Analysis with Missing Data (Self-taught)

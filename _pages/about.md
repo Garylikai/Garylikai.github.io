@@ -6,7 +6,9 @@ permalink: /about/
 author_profile: true
 ---
 
-Hello! Welcome to Kai Li's website! 
+Hello! Welcome to Kai Li's website!
+
+![](/images/image5.jpg){: .align-right width="240"}
 
 ![](/images/image4.jpg){: .align-right width="240"}
 

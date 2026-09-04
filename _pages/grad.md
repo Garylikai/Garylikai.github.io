@@ -56,7 +56,7 @@ The following are the courses that I have taken at Stony Brook University during
 
 [AMS 597](/grad/ams597/): Statistical Computing
 
-[AMS 598](/grad/ams598/): Big Data Analysis (Wish to self-teach soon)
+[AMS 598](/grad/ams598/): Big Data Analysis
 
 [AMS 691](/grad/ams691/): Topics in Applied Mathematics and Statistics – Fundamentals of Reinforcement Learning
 

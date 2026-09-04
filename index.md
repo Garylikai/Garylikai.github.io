@@ -32,15 +32,17 @@ I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023. [Syllabu
 
 -->
 
-**Spring 2026 Class Schedule**
+**Fall 2026 Class Schedule**
+
+[AMS 598](/grad/ams598/): Big Data Analysis
 
 [AMS 699](/grad/ams699/): Dissertation Research On Campus
 
-I am TAing [AMS 580](/grad/ams580/): Statistical Learning.
+I am TAing [AMS 586](/grad/ams586/): Time Series.
 
-Office hours: Tuesdays and Thursdays 5:00-6:00pm in Harriman 202.
+Office hours: Tuesdays and Thursdays 3:30-4:30pm in Harriman 202.
 
-I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023 ([Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)) and [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2025 ([Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)), and TAed [AMS 586](/grad/ams586/): Time Series in Fall 2025.
+I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023 ([Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)) and [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2025 ([Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)), and TAed [AMS 580](/grad/ams580/): Statistical Learning in Spring 2026.
 
 <br/>
 

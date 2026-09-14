@@ -1,76 +1,55 @@
 ---
+title: "Hello, I'm Kai"
 layout: single
 classes: wide
+permalink: /
 author_profile: true
+description: "Kai Li is a statistics Ph.D. candidate at Stony Brook University working on reinforcement learning, statistical modeling, simulation, and sequential decision-making."
 ---
 
-<!---
+Hello! I am a Ph.D. candidate in Applied Mathematics and Statistics on the Statistics Track at Stony Brook University. My work centers on reinforcement learning, statistical modeling, simulation, and sequential decision-making.
 
-**Spring 2024 Class Schedule**
+This website is both my academic home and a small personal archive: a place for my research and teaching, the courses and books that shaped me, and a few ideas that I simply find delightful.
 
-[AMS 599](/grad/ams599/): Research
+[View my research](/research/){: .btn .btn--primary }
+[Teaching](/teaching/){: .btn }
+[Download my CV](/cv.pdf){: .btn }
+[Download my résumé](/resume.pdf){: .btn }
+[GitHub](https://github.com/Garylikai){: .btn }
+[LinkedIn](https://www.linkedin.com/in/garylikai/){: .btn }
 
-[AMS 698](/grad/ams698/): Practicum in Teaching
+## Selected work
 
-I am teaching [AMS 394](/grad/ams394/): Statistical Laboratory. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
+### Cumulative tic-tac-toe
 
-Office hours: Mondays 2:00-4:00pm and Tuesdays 10:00-11:00am in Harriman 202.
+I am the first author of a peer-reviewed *Stats* article combining combinatorial game theory with temporal-difference reinforcement learning.
 
-Course materials are on Brightspace.
+[Read the article](https://doi.org/10.3390/stats9020028) · [View the official implementation](https://github.com/Garylikai/cumulative-tictactoe)
 
-I taught [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2023. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2023.pdf)
+### RL-QESA
 
-I am teaching [AMS 412](/grad/ams412/): Mathematical Statistics. [Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2024.pdf)
+I am a co-first author of an AI for Math Workshop at ICML 2025 paper on reinforcement-learning-guided temperature control for simulated annealing.
 
-Office hours: Tuesdays and Thursdays, 3:50-5:20pm in Harriman 202.
+[Read the OpenReview paper](https://openreview.net/forum?id=4eAAIIBt3Q) · [View the publication page](https://github.com/Garylikai/rl-qesa)
 
-Course materials are on Brightspace.
+### Current work
 
-I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023. [Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
+My current work includes a co-first-author manuscript comparing six reinforcement learning algorithms across expanded blackjack action spaces and a co-authored manuscript on regional sea-level prediction. Further details are available in my [CV](/cv.pdf).
 
-<br/>
+## Teaching
 
--->
+I have taught or supported courses in mathematical statistics, statistical learning, time series, and statistical computing. I also enjoy mentoring students as they learn how to turn questions into careful analyses and clear scientific communication.
 
-**Fall 2026 Class Schedule**
+[See my teaching and mentoring record](/teaching/)
 
-[AMS 598](/grad/ams598/): Big Data Analysis
+## A few ideas I enjoy
 
-[AMS 699](/grad/ams699/): Dissertation Research On Campus
+> “Block what you can, randomize what you cannot.” — Box, Hunter, and Hunter
 
-I am TAing [AMS 586](/grad/ams586/): Time Series.
+I also have a soft spot for Simpson’s paradox, the birthday problem, Occam’s razor, and the reminder that bad inputs rarely produce good analysis.
 
-Office hours: Tuesdays and Thursdays 3:30-4:30pm in Harriman 202.
+[Visit the less formal side of the site](/personal/)
 
-I taught [AMS 394](/grad/ams394/): Statistical Laboratory in Fall 2023 ([Syllabus](_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)) and [AMS 412](/grad/ams412/): Mathematical Statistics in Spring 2025 ([Syllabus](_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)), and TAed [AMS 580](/grad/ams580/): Statistical Learning in Spring 2026.
+## Why “Kai’s Square”?
 
-<br/>
-
-**A few quotes, theorems, and phenomenons that I find very interesting:**
-> [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) / [Tactical voting](https://en.wikipedia.org/wiki/Tactical_voting)
-
-> [Block what you can, randomize what you cannot.](https://en.wikipedia.org/wiki/Blocking_(statistics))[^1]
-
-> [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
-
-> [Power law of practice](https://en.wikipedia.org/wiki/Power_law_of_practice)
- 
-> [Law of the unconscious statistician (LOTUS)](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)
-
-> [Garbage in, garbage out (GIGO)](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
-
-> [Birthday paradox / birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)
- 
-> [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-
-> [Inspection paradox](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox)
-
-> [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) / [Three Prisoners problem](https://en.wikipedia.org/wiki/Three_Prisoners_problem)
-
-> [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
-
-> Deterministic vs. Stochastic Models (*i.e.* Tractability vs. Validity)[^2]
-
-[^1]: Box, G.E.P., J.S. Hunter, and W.G. Hunter: *Statistics for Experimenters: Design, Innovation, and Discovery*, 2nd edition, John Wiley (2005).
-
-[^2]: Rardin, R.L.: *Optimization in Operations Research*, 2nd edition, Pearson (2016).
+The name is a small statistics joke: *Kai* and *chi* sound alike in English, and χ² is never far away in a statistics program. The longer story is on my [About page](/about/).

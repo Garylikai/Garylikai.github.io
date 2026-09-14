@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Kai Li"
-  avatar           : "/images/image1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/kai-li-portrait.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher and educator working in statistics, reinforcement learning, modeling, and simulation."
   location         : "Stony Brook, NY"
   email            : "kai.li@stonybrook.edu"

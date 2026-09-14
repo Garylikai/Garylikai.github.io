@@ -1,31 +1,34 @@
 ---
-title:  "About Me"
+title: "About"
 layout: single
 classes: wide
 permalink: /about/
 author_profile: true
+description: "Learn about Kai Li's path through mathematics, statistics, research, teaching, and the story behind Kai's Square."
 ---
 
-Hello! Welcome to Kai Li's website!
+Hello, and welcome to my website.
 
-![](/images/image5.jpg){: .align-right width="240"}
+I am a Ph.D. candidate in Applied Mathematics and Statistics on the Statistics Track at Stony Brook University, with an expected graduation date of May 2027. My research interests include reinforcement learning, statistical modeling, simulation, and sequential decision-making.
 
-![](/images/image4.jpg){: .align-right width="240"}
+Before beginning the Ph.D., I earned an M.S. in Applied Mathematics and Statistics at Stony Brook, where I completed the academic requirements for both the Statistics and Operations Research tracks. I also earned advanced graduate certificates in Operations Research and Data & Computational Science. My undergraduate degree is a B.S. in Mathematics on the Theoretical Track from The Ohio State University, with minors in Computer Information Science and Economics.
 
-I am currently a second-year graduate student at Stony Brook University, mastering statistics in the department of Applied Mathematics and Statistics, College of Engineering and Applied Sciences. Furthermore, I am pursuing an Advanced Graduate Certificate (and Engineering) in Data Science. I have a bachelor's degree in pure mathematics from The Ohio State University. I also had minors in Computer Information Science and Economics during my undergrad. 
+I enjoy work that connects mathematical reasoning, statistical evidence, and computation. I also think of myself as a “forever student”: someone who likes learning new ideas, returning to old ones with a better perspective, and noticing connections across fields.
 
-![](/images/image3.jpg){: .align-right width="240"}
+## My academic journey
 
-The image on the top was taken during the week of Stony Brook University 2022 Graduate Celebration on May 23rd, 2022. In particular, I love the [Umbilic torus](https://en.wikipedia.org/wiki/Umbilic_torus) and the stairs in front of the math tower. The image in the middle was taken at the Department of Applied Mathematics and Statistics 2022 Award of Honor Celebration at Stony Book University on May 19th, 2022. The person next to me is our fantastic chair of AMS as well as a distinguished professor at Stony Brook, Prof. Joe Mitchell. The image on the bottom was taken during the week of The Ohio State University 2020 Graduate Celebration on August 7th, 2021. The impressive Golden Hour Glass, made of cut and carved marble next to me is the signature of Ohio State’s Department of Mathematics.
+The course pages on this site are intentionally more complete than a résumé or CV. They are not meant to claim that every course is equally important to every visitor. They are my personal record of the subjects, teachers, books, and stages of learning that helped me grow from an undergraduate mathematics student into a statistics Ph.D. candidate.
 
-![](/images/image2.jpg){: .align-right width="240"}
+- [Graduate studies and independent learning](/grad/)
+- [Undergraduate studies](/undergrad/)
+- [Books and resources](/reading/)
 
-I am interested in a variety of sciences and technologies. In particular, I have experience in both theoretical knowledge, such as mathematics and economic theories, as well as applied implementations, such as applied statistics and computer science engineering. My background in broad subjects enables me to be curious and eager to discover everything emerging in the world. I also consider myself a "forever student" that keeps the passion to both learn and explore new boundaries in research.
+## Why “Kai’s Square”?
 
-**A Kai-square random variable**
+The chi-square distribution, written χ², appears throughout statistical inference. Friends and I noticed that the English pronunciation of *chi* sounds like my first name, *Kai*. “Kai’s Square” grew from that small coincidence and became a fitting name for the website of a statistics student.
 
-One may ask about the meaning of the subtitle for my webpage: A $\\chi^2$ random variable. The chi-square distribution $\\chi^2$ is an important distribution (a special case of the gamma distribution) that is helpful in statistical inference (e.g. in hypothesis testing and in construction of confidence intervals). Since the chi-square distribution is so important and constantly used, several friends of mine and myself observed that the pronunciation of "chi" is the same as my first name "Kai". That is where the name "Kai-square" comes from.
+The joke is informal, but the idea behind it is serious: statistics has become part of how I understand problems, evidence, and uncertainty.
 
-**Garbage in, garbage out (GIGO)**
+## Beyond the formal record
 
-This is my favorite principle common in computer science and mathematics, which means that flawed or nonsense (garbage) input data produces nonsense output. I had a much better understanding of this concept when I was taking a data science course, [CSE 519](/grad/cse519/), in Fall 2021. Though it was not the first time I was getting in touch with data science, it was the first opportunity for me to sit down and understand what data science is. After understanding the principles and philosophies of data science, I performed a lot of data science procedures and modeling, using Python, on the datasets from [Kaggle](https://www.kaggle.com/) competitions. These projects deepened my understanding of the connections among computer scientists, data scientists, and statisticians. My goal is to absorb and implement their ways of thinking into real life scenarios.
+My [Personal Notes page](/personal/) holds photographs, a few memories, and a collection of principles, puzzles, and paradoxes that I enjoy. It is the deliberately less formal part of this website.

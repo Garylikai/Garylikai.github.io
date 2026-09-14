@@ -48,7 +48,7 @@ I came to appreciate the principle more deeply while taking [CSE 519: Data Scien
 ## Ideas, puzzles, and phenomena I enjoy
 
 - [Keynesian beauty contests](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) and [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting)
-- “Block what you can, randomize what you cannot.”[^1]
+- "Block what you can, randomize what you cannot."[^1]
 - [Occam’s razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 - [The power law of practice](https://en.wikipedia.org/wiki/Power_law_of_practice)
 - [The law of the unconscious statistician](https://en.wikipedia.org/wiki/Law_of_the_unconscious_statistician)

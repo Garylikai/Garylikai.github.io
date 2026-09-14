@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Kai Li"
 title_separator          : "|"
-subtitle                 : "Statistics, learning, and a little $\\pmb{\\chi^2}$"
+subtitle                 : "Statistics, learning, and a little χ²"
 name                     : "Kai Li"
 description              : "Personal website of Kai Li, a statistics researcher and educator working on reinforcement learning, statistical modeling, simulation, and data science."
 url                      : "https://garylikai.github.io"

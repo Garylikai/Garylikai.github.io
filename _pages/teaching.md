@@ -41,7 +41,7 @@ This work belongs here as a mentoring experience rather than as one of my GitHub
 
 ## Selected public course materials
 
-- [AMS 394 course page](/grad/ams394/) and [Fall 2023 syllabus](/pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
-- [AMS 412 course page](/grad/ams412/) and [Spring 2025 syllabus](/pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)
+- [AMS 394 course page](/grad/ams394/) and [Fall 2023 syllabus](/_pages/grad/ams394/AMS394_Syllabus_Fall2023.pdf)
+- [AMS 412 course page](/grad/ams412/) and [Spring 2025 syllabus](/_pages/grad/ams412/AMS412_Syllabus_Spring2025.pdf)
 
 These materials document past offerings. Current students should use the official course platform for current schedules, office hours, assignments, and announcements.

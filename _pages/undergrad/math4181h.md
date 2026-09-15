@@ -1,13 +1,22 @@
 ---
+title: "MATH 4181H: Honors Analysis I"
 layout: single
 classes: wide
 permalink: /undergrad/math4181h/
 author_profile: true
+description: "Personal academic record for MATH 4181H: Honors Analysis I at The Ohio State University."
 ---
 
-**MATH 4181H: Honors Analysis I**
+*This page is part of my personal academic record, not an official course website.*
 
-4181H and 4182H is an enriched honors sequence introducing students to mathematical underpinnings of calculus. 4181H is the first of the calculus sequence designed to introduce
-students to the mathematical underpinnings of analysis. 4182H is a continuation with a rigorous treatment of multivariable calculus including gradients, multiple integrals, line and surface integrals, Green’s theorem, the divergence theorem, and Stokes’ Theorem. This two-semester sequence comprises the most intensive first year honors track in mathematics. It is designed to challenge talented, highly motivated students, regardless of their chosen major area of study. The courses introduce students to the mathematical underpinnings of calculus and stimulate the development of mathematical thinking, in addition to covering the material of the traditional calculus sequence. The sequence is taught by faculty members in small sections with considerable teacherstudent interaction.
+## Course description
 
-Required Textbook: *Calculus* by Michael Spivak, 4th edition, 2008, Publish or Perish
+MATH 4181H and MATH 4182H are an enriched honors sequence introducing students to mathematical underpinnings of calculus. 4181H is the first of the calculus sequence designed to introduce students to the mathematical underpinnings of analysis. 4182H is a continuation with a rigorous treatment of multivariable calculus including gradients, multiple integrals, line and surface integrals, Green’s theorem, the divergence theorem, and Stokes’ theorem. This two-semester sequence comprises the most intensive first-year honors track in mathematics. It is designed to challenge talented, highly motivated students, regardless of their chosen major area of study. The courses introduce students to the mathematical underpinnings of calculus and stimulate the development of mathematical thinking, in addition to covering the material of the traditional calculus sequence. The sequence is taught by faculty members in small sections with considerable teacher–student interaction.
+
+## Textbooks and resources
+
+### Required textbook
+
+- *Calculus* by Michael Spivak, 4th edition, 2008, Publish or Perish
+
+[Back to Undergraduate Studies](/undergrad/)

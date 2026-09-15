@@ -13,8 +13,8 @@ This is the less formal side of my website: a place for memories, small stories,
 
 <figure>
   <img src="/images/stony-brook-graduation.webp"
-       alt="Kai Li in graduation regalia beside the Umbilic Torus sculpture at Stony Brook University."
-       width="900" height="1200" loading="lazy">
+       alt="Kai Li seated outdoors in red graduation regalia beside Stony Brook University's Mathematics building."
+       width="1440" height="959" loading="lazy">
   <figcaption>Beside the Umbilic Torus during Stony Brook University's 2022 Graduate Celebration, May 23, 2022.</figcaption>
 </figure>
 
@@ -27,15 +27,15 @@ This is the less formal side of my website: a place for memories, small stories,
 
 <figure>
   <img src="/images/ohio-state-graduation.webp"
-       alt="Kai Li in Ohio State graduation regalia outside the Mathematics Tower near the Golden Hour Glass sculpture."
-       width="1200" height="799" loading="lazy">
+       alt="Kai Li in Ohio State graduation regalia standing beside the Golden Hour Glass sculpture."
+       width="1280" height="1706" loading="lazy">
   <figcaption>During The Ohio State University's 2020 Graduate Celebration, held August 7, 2021.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/beach.webp"
        alt="Kai Li standing on a beach beside the water on a clear day."
-       width="1600" height="1067" loading="lazy">
+       width="1620" height="1080" loading="lazy">
   <figcaption>A quiet moment by the water.</figcaption>
 </figure>
 

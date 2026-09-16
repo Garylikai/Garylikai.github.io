@@ -1,8 +1,28 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Exclude this stylesheet from the site-search index.
+search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Site-specific visual customizations. */
+
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 0.9em;
+}
+
+.author__avatar img {
+  border-radius: 0;
+  padding: 0;
+  border: 0;
+}
+
+.author__bio {
+  font-size: 0.9em;
+  font-style: italic;
+}

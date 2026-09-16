@@ -20,7 +20,14 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
-
+          cache-version: 1
+          
+      - name: Report build versions
+        run: |
+          ruby --version
+          bundle exec jekyll --version
+          bundle exec ruby -rliquid -e 'puts "Liquid #{Liquid::VERSION}"'
+          
       - name: Build Jekyll site
         run: bundle exec jekyll build --trace
 

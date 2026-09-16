@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /
 author_profile: true
+math: true
 description: "Kai Li is a statistics Ph.D. candidate at Stony Brook University working on reinforcement learning, statistical modeling, simulation, and sequential decision-making."
 ---
 
@@ -52,4 +53,4 @@ I also have a soft spot for Simpson’s paradox, the birthday problem, Occam’s
 
 ## Why “Kai’s Square”?
 
-The name is a small statistics joke: *Kai* and *chi* sound alike in English, and χ² is never far away in a statistics program. The longer story is on my [About page](/about/).
+The name is a small statistics joke: *Kai* and *chi* sound alike in English, and $\chi^2$ is never far away in a statistics program. The longer story is on my [About page](/about/).

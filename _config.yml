@@ -54,7 +54,7 @@ atom_feed:
   hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, gole
 lunr:
   search_within_pages    : true
 algolia:
@@ -62,12 +62,12 @@ algolia:
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
-google:
+gole:
   search_engine_id       : "9f86116eda0e5e414" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
 baidu_site_verification  : "CDZJEROp4LA8gee1"
-google_site_verification : "a-JHmGSG6aQZ_IqTSHWDllmCge7uLhLGwBPwcYoIMvg"
+gole_site_verification : "a-JHmGSG6aQZ_IqTSHWDllmCge7uLhLGwBPwcYoIMvg"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -79,7 +79,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/images/kai-li-social-card.png"
+og_image_alt             : "Kai Li — statistics, reinforcement learning, and data science"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

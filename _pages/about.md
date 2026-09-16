@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /about/
 author_profile: true
+math: true
 description: "Learn about Kai Li's path through mathematics, statistics, research, teaching, and the story behind Kai's Square."
 ---
 
@@ -25,7 +26,7 @@ The course pages on this site are intentionally more complete than a résumé or
 
 ## Why “Kai’s Square”?
 
-The chi-square distribution, written χ², appears throughout statistical inference. Friends and I noticed that the English pronunciation of *chi* sounds like my first name, *Kai*. “Kai’s Square” grew from that small coincidence and became a fitting name for the website of a statistics student.
+The chi-square distribution, written $\chi^2$, appears throughout statistical inference. Friends and I noticed that the English pronunciation of *chi* sounds like my first name, *Kai*. “Kai’s Square” grew from that small coincidence and became a fitting name for the website of a statistics student.
 
 The joke is informal, but the idea behind it is serious: statistics has become part of how I understand problems, evidence, and uncertainty.
 

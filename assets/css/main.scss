@@ -10,10 +10,14 @@ search: false
 
 /* Site-specific visual customizations. */
 
+.page__content {
+  max-width: 72ch;
+}
+
 .page__content p,
 .page__content li,
 .page__content dl {
-  font-size: 0.9em;
+  font-size: 0.9rem;
 }
 
 .author__avatar img {

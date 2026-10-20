@@ -9,9 +9,11 @@ toc_sticky: true
 description: "A personal record of Kai Li's mathematics, statistics, computer science, and economics studies at The Ohio State University."
 ---
 
-I earned a B.S. in Mathematics on the Theoretical Track from The Ohio State University, with minors in Computer Information Science on the Database Track and Economics on the Theory Concentration.
+I earned a B.S. in Mathematics on the Theoretical Track from The Ohio State University, with minors in Computer Information Science (Database Track) and Economics (Theory Concentration).
 
 This page is a personal learning record, not an official transcript. It distinguishes courses completed at Ohio State from subjects represented by Advanced Placement credit or by more advanced course substitutions.
+
+Course descriptions and learning outcomes are retained as part of this personal record, with minor corrections to grammar, spelling, and notation.
 
 ## Courses completed at Ohio State
 

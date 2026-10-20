@@ -13,6 +13,8 @@ This page is a personal learning record rather than an official transcript. I ke
 
 At Stony Brook University, I earned an M.S. in Applied Mathematics and Statistics and advanced graduate certificates in Operations Research and Data & Computational Science. I am now a Ph.D. candidate in Applied Mathematics and Statistics on the Statistics Track.
 
+Course descriptions and learning outcomes are retained as part of this personal record, with minor corrections to grammar, spelling, and notation.
+
 ## Formal graduate coursework
 
 ### Applied Mathematics and Statistics
@@ -24,6 +26,7 @@ At Stony Brook University, I earned an M.S. in Applied Mathematics and Statistic
 - [AMS 550: Stochastic Models](/grad/ams550/)
 - [AMS 553/CSE 529: Simulation and Modeling](/grad/ams553/)
 - [AMS 556: Dynamic Programming](/grad/ams556/)
+- [AMS 557: Fundamentals of Reinforcement Learning](/grad/ams691/) — formerly AMS 691: Topics in Applied Mathematics and Statistics
 - [AMS 569: Probability Theory](/grad/ams569/)
 - [AMS 570: Introduction to Mathematical Statistics](/grad/ams570/)
 - [AMS 571: Mathematical Statistics](/grad/ams571/)
@@ -36,7 +39,6 @@ At Stony Brook University, I earned an M.S. in Applied Mathematics and Statistic
 - [AMS 595: Fundamentals of Computing](/grad/ams595/)
 - [AMS 597: Statistical Computing](/grad/ams597/)
 - [AMS 598: Big Data Analysis](/grad/ams598/)
-- [AMS 691: Fundamentals of Reinforcement Learning](/grad/ams691/)
 
 ### Computer science
 

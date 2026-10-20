@@ -26,7 +26,7 @@ Course descriptions and learning outcomes are retained as part of this personal 
 - [AMS 550: Stochastic Models](/grad/ams550/)
 - [AMS 553/CSE 529: Simulation and Modeling](/grad/ams553/)
 - [AMS 556: Dynamic Programming](/grad/ams556/)
-- [AMS 557: Fundamentals of Reinforcement Learning](/grad/ams691/) — formerly AMS 691: Topics in Applied Mathematics and Statistics
+- [AMS 557: Fundamentals of Reinforcement Learning](/grad/ams557/) — formerly AMS 691: Topics in Applied Mathematics and Statistics
 - [AMS 569: Probability Theory](/grad/ams569/)
 - [AMS 570: Introduction to Mathematical Statistics](/grad/ams570/)
 - [AMS 571: Mathematical Statistics](/grad/ams571/)

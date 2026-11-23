@@ -13,6 +13,12 @@ This page gives a concise public record rather than a project-by-project technic
 
 ## Publications
 
+### Enhancing Regional Sea Level Predictions: A Unified Structural Equation Modeling Approach
+
+Jiayou Chao, Guanchao Tong, Andreas Lietzau, Wuyin Lin, Benjamin Hechtman, Minghua Zhang, Kai Li, Weihao Wang, Yunlong Pan, Merry Ma, Sen Zhao, and Wei Zhu. *Ocean-Land-Atmosphere Research*, Article in press, 2026. **Coauthor.**
+
+[Article and DOI](https://doi.org/10.34133/olar.0185)
+
 ### Combinatorial Game Theory and Reinforcement Learning in Cumulative Tic-Tac-Toe via Evaluation Functions
 
 Kai Li and Wei Zhu. *Stats*, 9(2), Article 28, 2026. **First author.**
@@ -25,10 +31,9 @@ Ruichen Xu, Kai Li, Haochun Wang, Georgios Kementzidis, Wei Zhu, and Yuefan Deng
 
 [OpenReview paper](https://openreview.net/forum?id=4eAAIIBt3Q) · [Publication page](https://github.com/Garylikai/rl-qesa)
 
-## Manuscripts in preparation
+## Manuscripts under review
 
-- **Reinforcement Learning with Expanded Action Spaces in Blackjack: A Controlled Six-Algorithm Comparison.** Co-first-author manuscript in preparation with Taejin Park, Lichun He, Jeffery Liu, and Wei Zhu.
-- **Enhancing Regional Sea Level Predictions: A Unified Structural Equation Modeling Approach.** Coauthored manuscript in preparation.
+- **Reinforcement Learning with Expanded Action Spaces in Blackjack: A Controlled Six-Algorithm Comparison.** Co-first-author manuscript in preparation with Lichun He, Taejin Park, Jeffery Liu, and Wei Zhu.
 
 Code and manuscript links for the blackjack study will be added when the author team is ready to make the work public. At that point, the paper and implementation can have separate repositories.
 

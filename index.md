@@ -35,7 +35,7 @@ I am a co-first author of an AI for Math Workshop at ICML 2025 paper on reinforc
 
 ### Current work
 
-My current work includes a co-first-author manuscript comparing six reinforcement learning algorithms across expanded blackjack action spaces and a coauthored manuscript on regional sea-level prediction. Further details are available in my [CV](/cv.pdf).
+My current work includes a co-first-author manuscript comparing six reinforcement learning algorithms across expanded blackjack action spaces. Further details are available in my [CV](/cv.pdf).
 
 ## Teaching
 
